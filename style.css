@@ -65,7 +65,7 @@ thead{
 
 
 .button{
-    background-color: #928b8b;
+    background-color: #8d8181;
     border:black;
     padding: 15px 32px;
     color:rgb(0, 0, 0);
@@ -96,5 +96,5 @@ form{
 }
 
 tbody tr:nth-child(even){
-    background-color: lightgray;
+    background-color: rgb(185, 184, 184);
 }
